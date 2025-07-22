@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Nitesh Gaikwad</h1>
-🚀  DevOps Enthusiast | Cloud Enthusiast | B.Tech IT Student from Pune !!
+🚀  DevOps Enthusiast | Cloud Enthusiast | IT Graduate from Pune !!
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nitesh-gaikwad&label=Profile%20views&color=0e75b6&style=flat" alt="nitesh-gaikwad" /> </p>
 <img align="right" alt="DevOps" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">  
 
 - ## 🌟 About Me  
-- 🎓 Pursuing **B.Tech in Information Technology** from Vishwakarma Institute of Information Technology, Kondhwa, Pune-411048  
-- 🌱 **Learning DevOps** and cloud technologies to build scalable solutions.  
-- ☁️ Interested in **Cloud Computing, CI/CD, and Infrastructure as Code**.  
-- 🔧 Exploring **AWS, Kubernetes, Docker, Terraform, Jenkins, Git, Linux**.  
-- 💡 Passionate about **automating workflows and deploying cloud-native applications**.  
+- 🎓 Graduated in **B.Tech in Information Technology (2025)** from Vishwakarma Institute of Information Technology, Kondhwa, Pune-411048  
+- 🌱 Passionate about **Cloud Computing** and **DevOps** practices  
+- ☁️ Interested in **CI/CD, Infrastructure as Code, and cloud-native development**  
+- 🔧 Hands-on with **AWS, Kubernetes, Docker, Terraform, Jenkins, Git, Linux**  
+- 💡 Enthusiastic about building automated, scalable, and secure solutions  
 
 ## ⚡ Technical Skills  
 - **DevOps Tools:** Git, Docker, Kubernetes, Terraform, Jenkins, SonarQube, Trviy, Nginx, Grafana  
@@ -53,7 +53,3 @@
   </a>
 </div>
 
----
-
-![Nitesh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=nitesh-gaikwad&show_icons=true&theme=tokyonight)
-![GitHub Streak](https://streak-stats.demolab.com/?user=nitesh-gaikwad&theme=tokyonight)
