@@ -44,11 +44,11 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-line.svg" height="40" alt="jenkins logo"  />
 
 ## 📞 Connect with Me  
-<div align="left">
-  <a href="https://www.linkedin.com/in/nitesh-gaikwad-869255293/" target="blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo" />
-  </a>
-  <a href="mailto:gaikwadnitesh015@gmail.com" target="blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/google-gmail/default.svg" width="52" height="40" alt="gmail logo" />
-  </a>
-</div>
+<a href="https://www.linkedin.com/in/nitesh-gaikwad-869255293/" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" height="40" alt="LinkedIn" />
+</a>
+&nbsp;&nbsp;
+<a href="mailto:gaikwadnitesh015@gmail.com">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" width="40" height="40" alt="Gmail" />
+</a>
+
