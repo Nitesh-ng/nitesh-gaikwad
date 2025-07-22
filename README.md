@@ -45,11 +45,10 @@
 
 ## 📞 Connect with Me  
 <div align="left">
-  <a href="https://www.linkedin.com/in/nitesh-gaikwad" target="blank">
+  <a href="https://www.linkedin.com/in/nitesh-gaikwad-869255293/" target="blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo" />
   </a>
   <a href="mailto:gaikwadnitesh015@gmail.com" target="blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/microsoft-outlook/default.svg" width="52" height="40" alt="microsoft-outlook logo" />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/google-gmail/default.svg" width="52" height="40" alt="gmail logo" />
   </a>
 </div>
-
